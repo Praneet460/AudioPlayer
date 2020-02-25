@@ -17,22 +17,22 @@ new Vue({
           url: "https://www.youtube.com/watch?v=uVJh7K65lFI",
           favorited: false
         },
-        // {
-        //   name: "Everybody Knows",
-        //   artist: "Leonard Cohen",
-        //   cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-        //   source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
-        //   url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
-        //   favorited: true
-        // },
-        // {
-        //   name: "Extreme Ways",
-        //   artist: "Moby",
-        //   cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
-        //   source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
-        //   url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
-        //   favorited: false
-        // },
+        {
+          name: "Hostel",
+          artist: "Anubhav Singh Bassi",
+          cover: "https://i.ytimg.com/vi/Tqsz6fjvhZM/hqdefault.jpg",
+          source: "./mp3/12.mp3",
+          url: "https://www.youtube.com/watch?v=Tqsz6fjvhZM&t=22s",
+          favorited: false
+        },
+        {
+          name: "Kanpur & River Ganga",
+          artist: "Harsh Gujral",
+          cover: "https://i.ytimg.com/vi/AU4Nct1lEVU/hqdefault.jpg",
+          source: "./mp3/13.mp3",
+          url: "https://www.youtube.com/watch?v=AU4Nct1lEVU",
+          favorited: false
+        },
         // {
         //   name: "Butterflies",
         //   artist: "Sia",
