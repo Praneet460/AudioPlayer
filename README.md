@@ -1,2 +1,1 @@
-# AudioPlayer
-audio player
+# mini-player
