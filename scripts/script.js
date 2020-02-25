@@ -33,14 +33,14 @@ new Vue({
           url: "https://www.youtube.com/watch?v=AU4Nct1lEVU",
           favorited: false
         },
-        // {
-        //   name: "Butterflies",
-        //   artist: "Sia",
-        //   cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
-        //   source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
-        //   url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
-        //   favorited: false
-        // },
+        {
+          name: "Shopping",
+          artist: "Rajat Chauhan",
+          cover: "https://i.ytimg.com/vi/o35aIWq-OPM/hqdefault.jpg",
+          source: "./mp3/14.mp3",
+          url: "https://www.youtube.com/watch?v=o35aIWq-OPM",
+          favorited: false
+        }
         // {
         //   name: "The Final Victory",
         //   artist: "Haggard",
